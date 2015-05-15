@@ -1,4 +1,3 @@
-# tv1
 &#8226; 视 频 分 享：
 <a href="http://27.ddns.info/tv/" target="_blank">网址一</a>
 　<a href="http://237.info.tm/tv/" target="_blank">网址二</a>
